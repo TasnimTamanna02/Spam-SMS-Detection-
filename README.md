@@ -92,12 +92,12 @@ After these reductions, the message effectively becomes "sale buy free" to the m
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/TasnimTamanna02/SpamSMS.git
+   git clone https://github.com/TasnimTamanna02/Spam-SMS-Detection.git
    cd SpamSMS
    ```
 
-2. **Dataset**
-   [SMS Spam Collection](https://archive.ics.uci.edu/dataset/228/sms+spam+collection), UCI Machine Learning Repository. 
+2. **Get the dataset**
+   [SMS Spam Collection](https://archive.ics.uci.edu/dataset/228/sms+spam+collection), UCI Machine Learning Repository or from the attached zip file `sms+spam+collection.zip`.
 
 3. **Run in Jupyter or Google Colab**
    The notebook currently loads data via a Google Drive path (Colab-specific). To run locally, update the file path in the data import cell to point to your local copy of the dataset.
